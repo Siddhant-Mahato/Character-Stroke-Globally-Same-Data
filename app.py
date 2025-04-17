@@ -7,7 +7,7 @@ import os
 # Config
 CANVAS_SIZE = 400
 MAX_POINTS = 100
-MIN_POINTS = 80
+MIN_POINTS = 75
 DATA_FILE = "saved_strokes.json"
 
 # Load existing data (persistent across sessions)
