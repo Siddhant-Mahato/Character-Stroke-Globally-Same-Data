@@ -5,6 +5,7 @@ import numpy as np
 import json
 import os
 
+
 # Config
 CANVAS_SIZE = 400
 MAX_POINTS = 100
